@@ -1,0 +1,13 @@
+Mi-a facut placere sa lucrez la aceasta tema deoarece a fost ca o provocare pentru mine si consider ca mi-am dezvoltat abilitatile de a programa in Matlab(Octave). Implementarea efectiva a temei a durat 3-4 zile in care am lucrat cate 3-4 ore pe zi. Din aceasta tema am invatat multe lucruri noi care ma vor ajuta pe viitor!
+
+Prima problema o reprezinta o functie care calculeaza valoarea fiecarui polinom din sirul de polinoame P0(λ), P1(λ), P2(λ), ..., Pn(λ) pentru o valoare reala λ data.
+
+A doua problema o reprezinta o functie folosita pentru a determina numarul de valori proprii ale unei matrice tridiagonale simetrice care sunt mai mici decat o valoare reala λ data.
+ 
+A treia problema o reprezinta o functie folosita pentru a determina limitele incadratoare (limita inferioara, respectiv superioara) a valorilor proprii ale unei matrice tridiagonale simetrice. 
+
+A patra problema o reprezinta o functie folosita pentru a separa cele mai mici m valori proprii asociate cu o matrice tridiagonala simetrica.
+
+A cincea problema o reprezinta o functie folosita pentru a determina cu o anumita precizie cele mai mici m valori proprii ale unei matrice tridiagonale simetrice.
+
+A sasea problema o reprezinta o functie care are ca rezultat o valoare proprie si un vector propriu. Functia se bazeaza pe metoda puterii inverse si pe algoritmul lui Thomas pentru a rezolva sistemul de ecuatii liniare, unde matricea sistemului este tridiagonala si simetrica.
